@@ -42,10 +42,14 @@ in the chrome carries a hue.
 
 ## Installation
 
-**From the community directory:** Settings → Appearance → Themes → Manage, search for
-**Borozdov Keynote**, then **Install and use**.
+**From the community directory, as a variant:** this theme ships inside **Borozdov
+Utility**. Install Borozdov Utility under Settings → Appearance → Themes → Manage, then
+the [Style Settings](https://github.com/mgmeyers/obsidian-style-settings) plugin, and
+choose **Keynote** under Style Settings → Borozdov Utility → Variant. The variant brings
+this theme's palette, type and corners; its own layout, and its embedded font if it has
+one, come with the full theme below.
 
-**By hand:** download `manifest.json` and `theme.css` from the
+**The full theme, by hand:** download `manifest.json` and `theme.css` from the
 [latest release](https://github.com/borozdov-obsidian-themes/keynote/releases/latest) into
 `<vault>/.obsidian/themes/Borozdov Keynote/`, then choose Borozdov Keynote under
 Settings → Appearance → Themes.
@@ -59,5 +63,4 @@ MIT — see [LICENSE](LICENSE).
 **По-русски.** Тема из коллекции Borozdov. Два лика: светлый «Houselights» — наклонные
 рамки на спокойном холодно-сером холсте, и тёмный «Blackout» — та же стена, когда гаснет
 свет. Один яркий синий акцент отмечает каждое интерактивное место, остальная часть
-интерфейса остаётся серой. Шрифты не встроены. Устанавливается из каталога: Настройки →
-Оформление → Темы → Настроить → Borozdov Keynote → Установить и применить.
+интерфейса остаётся серой. Шрифты не встроены. В каталоге тема живёт вариантом Borozdov Utility: установите Borozdov Utility и плагин Style Settings, затем выберите Keynote в Style Settings → Borozdov Utility → Variant. Целиком, со своей вёрсткой, тема ставится вручную из последнего релиза репозитория.
